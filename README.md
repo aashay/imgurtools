@@ -11,4 +11,4 @@ Lulz for great justice!
 
 #LICENSE: 
 
-WTFPL
+WTFPL except uploadimgur which is Creative Commons Attribution 3.0 Unported License
