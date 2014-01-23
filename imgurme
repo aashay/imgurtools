@@ -1,0 +1,5 @@
+#!/bin/bash
+
+FOUND=`cat /Users/aashay/Dropbox/Photos/Memes/imgur | grep $1`
+echo $FOUND
+echo $FOUND | awk '{print $2}' | pbcopy
